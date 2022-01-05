@@ -16,7 +16,8 @@ Extract the keywords from the plot and combine information from other attributes
 Convert the text data into numerical data. This process is also known as 'Word Embeddings'
 #### Cosine similarity
 Cosine similarity is a metric used to measure the similarity between the two vectors. Mathematically it measures cosine of the angles between two vectors projected in a dimensional space
-![Cosine Formula](https://github.com/VAMSEE92/MovieRecommendationSystem/tree/main/Images)
+![Cosine Formula](https://github.com/VAMSEE92/MovieRecommendationSystem/blob/main/Images/Cosine-Similarity.png)
+#### 
 We will get a similarity matrix which can be used to predict the similar movies based on the plot of the movie searched
 ### Value of project
 Some platforms allows users to search for movies in anonymous mode. We can recommend movies to those users based on their search without having any user information in our database
